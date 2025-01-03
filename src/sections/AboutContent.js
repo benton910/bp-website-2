@@ -5,7 +5,6 @@ import soloShot1 from '../../public/images/PROMOcopy/SOLOCOMP.jpg';
 import soloShot2 from '../../public/images/PROMOcopy/SOLOCOMP2.jpg'
 
 const AboutContent = () => {
-  const { status: sessionStatus } = useSession();
   const [showMenu, setMenuVisibility] = useState(false);
 
   const toggleMenu = () => setMenuVisibility(!showMenu);

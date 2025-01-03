@@ -1,9 +1,9 @@
 import Image from 'next/image';
-import instaIcon from '../../public/images/PROMOcopy/SOCIAL/IMG_3642_LE_auto_x2.png';
-import fbIcon from '../../public/images/PROMOcopy/SOCIAL/IMG_5378_LE_auto_x2.png';
-import youtubeIcon from '../../public/images/PROMOcopy/SOCIAL/Youtube_logo_LE_auto_x2.png';
-import venmoIcon from '../../public/images/PROMOcopy/SOCIAL/IMG_8140_LE_auto_x2.png';
-import cashappIcon from '../../public/images/PROMOcopy/SOCIAL/IMG_4102_LE_auto_x2.png';
+import instaIcon from '../../../public/images/PROMOcopy/SOCIAL/IMG_3642_LE_auto_x2.png';
+import fbIcon from '../../../public/images/PROMOcopy/SOCIAL/IMG_5378_LE_auto_x2.png';
+import youtubeIcon from '../../../public/images/PROMOcopy/SOCIAL/Youtube_logo_LE_auto_x2.png';
+import venmoIcon from '../../../public/images/PROMOcopy/SOCIAL/IMG_8140_LE_auto_x2.png';
+import cashappIcon from '../../../public/images/PROMOcopy/SOCIAL/IMG_4102_LE_auto_x2.png';
 
 const Footer = () => {
   return (

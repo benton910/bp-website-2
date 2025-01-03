@@ -5,7 +5,6 @@ import { YouTubeEmbed } from '@next/third-parties/google'
 //Could be used instead as a space to put a photo gallery and/or videos section
 
 const MediaContent = () => {
-  const { status: sessionStatus } = useSession();
   const [showMenu, setMenuVisibility] = useState(false);
 
   const toggleMenu = () => setMenuVisibility(!showMenu);

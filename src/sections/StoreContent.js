@@ -5,7 +5,6 @@ import MerchCard from '@/components/MerchCard';
 //Need to integrate with Stripe to get the product details?
 
 const StoreContent = () => {
-  const { status: sessionStatus } = useSession();
   const [showMerchMenu, setMerchMenuVisibility] = useState(false);
 
   const toggleMerchMenu = () => setMerchMenuVisibility(!showMerchMenu);

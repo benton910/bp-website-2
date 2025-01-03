@@ -2,7 +2,6 @@ import { useState } from 'react';
 import Link from 'next/link';
 
 const Hero = () => {
-  const { status: sessionStatus } = useSession();
   const [showMenu, setMenuVisibility] = useState(false);
 
   const toggleMenu = () => setMenuVisibility(!showMenu);
