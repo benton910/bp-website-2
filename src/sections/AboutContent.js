@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import { useSession } from 'next-auth/react';
 
 import Image from 'next/image';
 import soloShot1 from '../../public/images/PROMOcopy/SOLOCOMP.jpg';

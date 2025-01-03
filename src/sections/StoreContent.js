@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import { useSession } from 'next-auth/react';
 import MerchCard from '@/components/MerchCard';
 
 

@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import { useSession } from 'next-auth/react';
 import ContactForm from '@/components/ContactForm';
 
 //UPDATE to clear out all fields upon successful email

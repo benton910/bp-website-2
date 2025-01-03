@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import { useSession } from 'next-auth/react';
 import { YouTubeEmbed } from '@next/third-parties/google'
 
 //RETHINK MEDIA
