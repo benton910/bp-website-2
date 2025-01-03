@@ -1,10 +1,8 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import Meta from '@/components/Meta/index';
 import { LandingLayout } from '@/layouts/index';
-import {
-  Carousel,
-  Hero
-} from '@/sections/index';
+import { Hero } from '@/sections/index';
+import Carousel from '@/components/Carousel';
 
 import soloShot1 from '../../public/images/PROMOcopy/SOLOCOMP.jpg';
 import soloShot2 from '../../public/images/PROMOcopy/SOLOCOMP2.jpg'

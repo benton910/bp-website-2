@@ -1,8 +1,9 @@
 import { useEffect } from 'react';
 import { useTheme } from 'next-themes';
-import { Footer, Navbar } from '../sections';
 import { Inter } from 'next/font/google'
 import CatfishBg from '@/components/CatfishBg';
+import Footer from '@/components/Footer';
+import Navbar from '@/components/Navbar';
 
 // If loading a variable font, you don't need to specify the font weight
 const inter = Inter({
