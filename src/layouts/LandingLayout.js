@@ -19,7 +19,7 @@ const LandingLayout = ({ children }) => {
   }, [setTheme]);
 
   return (
-    <div className={inter.className}>
+    <div className={`${inter.className} bg-gray-700`}>
       <CatfishBg />
       <Navbar />
       <main className="relative flex flex-col text-gray-800">{children}</main>
