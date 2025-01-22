@@ -60,7 +60,7 @@ const ContactForm = () => {
           ></textarea>
         </div>
         <div>
-          <button className='hover:scale-110 duration-200 rounded-md bg-slate-600 py-3 px-8 text-base font-semibold text-white outline-none'>
+          <button className='hover:scale-110 duration-200 rounded-md bg-blue-600 py-3 px-8 text-base font-semibold text-white outline-none'>
             Submit
           </button>
         </div>
