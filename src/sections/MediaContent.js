@@ -22,13 +22,13 @@ const MediaContent = () => {
             <YouTubeEmbed videoid="aCBNg3pDPT0" />
           </div>
           <div>
-            <h2 className="text-3xl md:text-5xl font-extrabold text-center my-1 text-blue-600 tracking-widest bg-black/60 px-3 py-3">Live @ Railgarten</h2>
+            <h2 className="text-3xl md:text-5xl font-extrabold text-center my-1 text-blue-600 tracking-widest bg-black/60 rounded-lg px-3 py-3">Live @ Railgarten</h2>
           </div>
           <div className='w-full md:w-5/6 max-w-[720px] mt-20'>
             <YouTubeEmbed videoid="Ocs4dC1xEKk" />
           </div>
           <div>
-            <h2 className="text-3xl md:text-5xl font-extrabold text-center my-1 text-blue-600 tracking-widest bg-black/60 px-3 py-3">Live @ Momma's</h2>
+            <h2 className="text-3xl md:text-5xl font-extrabold text-center my-1 text-blue-600 tracking-widest bg-black/60 rounded-lg px-3 py-3">Live @ Momma's</h2>
           </div>
         </div>
       </div>
