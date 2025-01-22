@@ -24,7 +24,7 @@ const Hero = () => {
           </Link>
         </div>
         <div className="flex items-center justify-center mx-auto w-full z-10 bg-gray-500 rounded-lg">
-          <p className="m-10 text-center text-lg md:text-2xl text-blue-50">
+          <p className="m-10 font-semibold text-center text-lg md:text-2xl text-blue-50">
           Stepping into the light and expressing himself through creative songwriting, powerful vocals, and superb musicianship, Benton is making a splash with his music. Read more about him <Link href="/about" className="text-blue-600/90 hover:text-blue-800">HERE</Link>!
           </p>
         </div>
